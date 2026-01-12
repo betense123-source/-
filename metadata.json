@@ -1,0 +1,5 @@
+{
+  "name": "Smart Reimburse AI",
+  "description": "A reimbursement management system with customizable forms and AI-powered audit verification for PayPal screenshots.",
+  "requestFramePermissions": []
+}
